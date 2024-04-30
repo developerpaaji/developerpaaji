@@ -1,4 +1,4 @@
-### Hello World 👋, I'm Bhavneet Singh!
+### Hello World
 
 [![GitHub followers](https://img.shields.io/github/followers/developerpaaji.svg?style=social&label=Follow)](https://github.com/developerpaaji?tab=followers)
 
